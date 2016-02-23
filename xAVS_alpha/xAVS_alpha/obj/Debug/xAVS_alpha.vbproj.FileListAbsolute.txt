@@ -1,0 +1,12 @@
+C:\Users\terry.pike\AppData\Local\Temporary Projects\xAVS_alpha\bin\Debug\xAVS_alpha.exe.config
+C:\Gits\xAVS_alpha\xAVS_alpha\xAVS_alpha\bin\Debug\xAVS_alpha.exe.config
+C:\Gits\xAVS_alpha\xAVS_alpha\xAVS_alpha\bin\Debug\xAVS_alpha.exe
+C:\Gits\xAVS_alpha\xAVS_alpha\xAVS_alpha\bin\Debug\xAVS_alpha.pdb
+C:\Gits\xAVS_alpha\xAVS_alpha\xAVS_alpha\bin\Debug\xAVS_alpha.xml
+C:\Gits\xAVS_alpha\xAVS_alpha\xAVS_alpha\obj\Debug\xAVS_alpha.vbprojResolveAssemblyReference.cache
+C:\Gits\xAVS_alpha\xAVS_alpha\xAVS_alpha\obj\Debug\xAVS_alpha.Form1.resources
+C:\Gits\xAVS_alpha\xAVS_alpha\xAVS_alpha\obj\Debug\xAVS_alpha.Resources.resources
+C:\Gits\xAVS_alpha\xAVS_alpha\xAVS_alpha\obj\Debug\xAVS_alpha.vbproj.GenerateResource.Cache
+C:\Gits\xAVS_alpha\xAVS_alpha\xAVS_alpha\obj\Debug\xAVS_alpha.exe
+C:\Gits\xAVS_alpha\xAVS_alpha\xAVS_alpha\obj\Debug\xAVS_alpha.xml
+C:\Gits\xAVS_alpha\xAVS_alpha\xAVS_alpha\obj\Debug\xAVS_alpha.pdb
